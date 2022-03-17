@@ -283,7 +283,7 @@ section .title::after{
 }
 .teams .title::after{
     background: #fff;
-    content: "who I've worked with";
+    content: "happy customers";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
